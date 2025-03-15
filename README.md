@@ -9,5 +9,5 @@ A simple tool to help decide what to cook for dinner because no-one can ever dec
 Drop your recipe files into the designated folder and run the rename script to organise them.
 
 ## Legal Notice
-Please note: The recipe files (PDF/JPG) included are downloaded from my personal account for personal use only. All rights belong to their respective owners.
+Please note: The recipe files (PDF/JPG) included (I haven't added any to git currently) are downloaded from my personal account for personal use only. All rights belong to their respective owners.
 I haven't included them in the repo but if you know, then you know, if you know what I mean.
