@@ -1,0 +1,6 @@
+# Local Netlify folder
+.netlify
+
+# Media files
+*.jpg
+*.pdf
